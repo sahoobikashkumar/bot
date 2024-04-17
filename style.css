@@ -1,7 +1,7 @@
 body,html{
 	height: 100%;
 	margin: 0;
-	background-image: url(https://nordicapis.com/wp-content/uploads/15-Intelligent-ChatBot-APIs-1024x576.png);
+	background-image: url(https://w0.peakpx.com/wallpaper/139/891/HD-wallpaper-iron-man-blue-helmet-minimal-iron-man-superheroes-artist-artwork-digital-art-minimalism-minimalist-thumbnail.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
@@ -13,8 +13,7 @@ body,html{
 	margin-bottom: auto;
 }
 .card{
-    height: 1000px;
-	width: 1000px;
+    height: 700px;
 	border-radius: 30px !important;
 	background-color: rgba(0, 0, 0, 0.4) !important;
 }
